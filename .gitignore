@@ -1,0 +1,73 @@
+# Its me
+
+# ===== macOS =====
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ===== Windows =====
+Thumbs.db
+Desktop.ini
+
+# ===== Editors / IDEs =====
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# ===== Secrets and environment files =====
+.env
+.env.*
+*.pem
+*.key
+secrets.*
+
+# ===== Logs and temp files =====
+*.log
+*.tmp
+*.bak
+tmp/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+out/
+target/
+bin/
+.gradle/
+
+# ===== C / C++ =====
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+
+# ===== JavaScript / Node =====
+node_modules/
+npm-debug.log*
+dist/
+coverage/
