@@ -1,6 +1,9 @@
 # Its me
-
+*
+!*/
+!*.*
 # ===== macOS =====
+*.dSYM/
 .DS_Store
 .AppleDouble
 .LSOverride
